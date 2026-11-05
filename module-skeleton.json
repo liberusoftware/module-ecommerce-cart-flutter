@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cart-flutter",
+  "capabilityKey": "planned:ecommerce:cart",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_cart_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/cart.md",
+  "presentationPlan": "projects/ecommerce/flutter/cart.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
